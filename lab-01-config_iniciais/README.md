@@ -5,7 +5,7 @@ Este laboratório aborda a configuração básica de segurança e conectividade 
 ![Topologia do Circuito](./topologia.png)
 
 ## Configurações Aplicadas
-As configurações completas do roteador e do switch podem ser encontradas nos arquivos `R1_router.cfg` e `SW1_switch.cfg` nesta mesma pasta.
+As configurações completas do roteador e do switch podem ser encontradas nos arquivos `CLI_roteador.cfg` e `SW1_switch.cfg` nesta mesma pasta.
 
 ---
 

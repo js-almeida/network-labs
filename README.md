@@ -20,18 +20,17 @@ de configuração (.cfg).
 
 | Laboratório | Descrição | Principais Conceitos |
 | :--- | :--- | :--- |
-| Lab 01 |(./lab-01-config_iniciais/) | Hostnames, senhas, rotoco telnet, banner motd |
-| Lab 02 | *(Em breve)* | DHCP
-| Lab 03 | *(Em breve)* | VLANS
+| Lab 01 |(./lab-01-config_iniciais/) | Hostnames, senhas, protocolo telnet, banner motd |
+| Lab 02 | *(Em breve)* | SSH, DHCP |
+| Lab 03 | *(Em breve)* | VLANS |
 
 ---
 
-## Como utilizar este repositório
+## Para reprodução
 
-Para replicar qualquer laboratório no seu Packet Tracer local:
 1. Navegue até a pasta do laboratório desejado.
 2. Abra a imagem `topologia.png` para entender a estrutura física.
-3. Crie os dispositivos no seu Packet Tracer e utilize os arquivos `.cfg` (como `R1_router.cfg`) para aplicar as configurações via CLI (Digitando ou colando os comandos).
+3. Crie os dispositivos no seu Packet Tracer e utilize os arquivos `.cfg` (como `R1_router.cfg`) ver os comandos e digitar na CLI do dispositivo.
 
 ---
  *Desenvolvido por Jivanei Almeida - Estudos de Redes.*

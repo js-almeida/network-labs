@@ -20,7 +20,7 @@ de configuração (.cfg).
 
 | Laboratório | Descrição | Principais Conceitos |
 | :--- | :--- | :--- |
-| Lab 01 |(./lab-01-config_iniciais/) | Hostnames, senhas (enable/secret), SSH, Banner MOTD |
+| Lab 01 |(./lab-01-config_iniciais/) | Hostnames, senhas, rotoco telnet, banner motd |
 | Lab 02 | *(Em breve)* | DHCP
 | Lab 03 | *(Em breve)* | VLANS
 
